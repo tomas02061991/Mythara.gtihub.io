@@ -1,5 +1,4 @@
 ---
-share: true
 name: Vulcanus
 title: the Forge Master
 ---
@@ -10,7 +9,7 @@ title: the Forge Master
 
 ## Appearance 
 
-![[narwhalofwar_Vulcanus_the_Forge_Master_is_a_mighty_smith_his_sk_32dd9abf-ca89-4e31-a104-9f55dc352260.png|400]]
+![[../images/narwhalofwar_Vulcanus_the_Forge_Master_is_a_mighty_smith_his_sk_32dd9abf-ca89-4e31-a104-9f55dc352260.png|400]]
 
 Vulcanus is a mighty smith, his skin gleaming with the glow of molten metal, and his hair ablaze like flames. He wields a massive hammer and anvil, shaping the world with his fiery craftsmanship.
 
