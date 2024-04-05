@@ -1,6 +1,7 @@
 ---
 name: Vulcanus
 title: the Forge Master
+layout: default
 ---
 
 
@@ -8,6 +9,7 @@ title: the Forge Master
 **Fire, Craftsmanship, and Innovation**
 
 ## Appearance 
+
 
 ![Vulcanus, the Forge Master](../images/narwhalofwar_Vulcanus_the_Forge_Master_is_a_mighty_smith_his_sk_32dd9abf-ca89-4e31-a104-9f55dc352260.png)
 

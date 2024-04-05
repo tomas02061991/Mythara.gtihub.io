@@ -1,6 +1,7 @@
 ---
 name: Lysandra
 title: the Night Whisperer
+layout: default
 ---
 
 ## Domains

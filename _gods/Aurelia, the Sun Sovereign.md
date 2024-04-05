@@ -1,6 +1,7 @@
 ---
 name: Aurelia
 title: the Sun Sovereign
+layout: default
 ---
 
 ## Domain

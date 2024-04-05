@@ -1,6 +1,7 @@
 ---
 name: Sylvana
 title: the Verdant Guardian
+layout: default
 ---
 
 ## Domains

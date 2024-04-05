@@ -1,6 +1,7 @@
 ---
 name: Nereus
 title: the Tidal Lord
+layout: default
 ---
 
 ## Domains

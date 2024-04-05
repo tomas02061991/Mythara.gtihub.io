@@ -1,6 +1,7 @@
 ---
 name: Astraia
 title: the Star Weaver
+layout: default
 ---
 
 ## Domain
