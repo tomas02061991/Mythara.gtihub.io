@@ -1,6 +1,7 @@
 ---
 name: Arboria
 title: the Guardian of Life
+layout: default
 ---
 
 ## Domains
