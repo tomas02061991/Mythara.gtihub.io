@@ -1,5 +1,7 @@
 ---
 share: true
+name: Vulcanus
+title: the Forge Master
 ---
 
 
