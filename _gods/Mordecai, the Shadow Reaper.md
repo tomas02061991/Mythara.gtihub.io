@@ -1,15 +1,13 @@
 ---
 name: Mordecai
 title: the Shadow Reaper
-layout: default
+layout: gods
 ---
-
+![Mordecai, the Shadow Reaper](../images/narwhalofwar_Mordecai_the_Shadow_Reaper_appears_as_a_cloaked_fi_3239dc8e-e8af-441f-8acd-16a2ecf8d005.png)
 ## Domains
 **Death, Darkness, and Secrets**
 
 ## Appearance 
-
-![Mordecai, the Shadow Reaper](../images/narwhalofwar_Mordecai_the_Shadow_Reaper_appears_as_a_cloaked_fi_3239dc8e-e8af-441f-8acd-16a2ecf8d005.png)
 
 Mordecai appears as a cloaked figure with eyes that gleam like polished onyx. He moves silently through the shadows, wielding a scythe that cuts through the veil between life and death. His presence inspires both fear and reverence.
 
