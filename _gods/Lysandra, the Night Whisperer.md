@@ -8,7 +8,7 @@ title: the Night Whisperer
 
 ## Appearance 
 
-![[../images/narwhalofwar_Lysandra_the_Night_Whisperer_appears_as_a_serene_f_8b658785-987a-47e1-a539-fa54c3da6071.png|400]]
+![Lysandra, the Night Whisperer](../images/narwhalofwar_Lysandra_the_Night_Whisperer_appears_as_a_serene_f_8b658785-987a-47e1-a539-fa54c3da6071.png)
 
 Lysandra appears as a serene figure bathed in the soft glow of moonlight. Her hair cascades like silver threads, and her eyes hold the mysteries of the night sky. She weaves illusions and guides the dreams of mortals.
 
