@@ -3,6 +3,8 @@ name: Aurelia
 title: the Sun Sovereign
 layout: gods
 ---
+# Aurelia, the Sun Sovereign
+
 ![Aurelia, the Sun Sovereign](../images/narwhalofwar_Aurelia_the_Sun_Sovereign_appears_as_a_radiant_fig_79d8d5c5-0d89-4804-b4e7-0f60e33775bc.png)
 ## Domain
 **Light, Life, and Justice**
