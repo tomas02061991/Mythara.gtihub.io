@@ -1,15 +1,13 @@
 ---
 name: Nereus
 title: the Tidal Lord
-layout: default
+layout: gods
 ---
-
+![Nereus, the Tidal Lord](../images/narwhalofwar_Nereus_the_Tidal_Lord_takes_the_form_of_a_mighty_s_63a00c4e-afbd-4eb7-b0ff-a44b15288532.png)
 ## Domains
 **Water, Sea, and Emotions**
 
 ## Appearance 
-
-![Nereus, the Tidal Lord](../images/narwhalofwar_Nereus_the_Tidal_Lord_takes_the_form_of_a_mighty_s_63a00c4e-afbd-4eb7-b0ff-a44b15288532.png)
 
 Nereus takes the form of a mighty sea titan, crowned with swirling ocean waves and wielding a trident that commands the tides. His presence evokes both the tranquility of calm waters and the fury of raging storms.
 

@@ -1,15 +1,13 @@
 ---
 name: Astraia
 title: the Star Weaver
-layout: default
+layout: gods
 ---
-
+![Astraia, the Star Weaver](../images/narwhalofwar_Astraia_the_Star_Weaver_manifests_as_a_celestial_b_8e032499-e3d4-4c9b-91bf-61a9afa51de0.png)
 ## Domain
 **Magic, Knowledge, and Fate**
 
 ## Appearance
-
-![Astraia, the Star Weaver](../images/narwhalofwar_Astraia_the_Star_Weaver_manifests_as_a_celestial_b_8e032499-e3d4-4c9b-91bf-61a9afa51de0.png)
 
 Astraia manifests as a celestial being adorned with swirling galaxies and twinkling stars. She holds a staff adorned with ancient runes and possesses eyes that seem to see into the depths of the cosmos.
 
