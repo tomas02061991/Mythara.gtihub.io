@@ -1,4 +1,16 @@
 <nav>
   <a href="{{ site.baseurl }}/">Home</a>
   <a href="{{ site.baseurl }}/about">About</a>
+  <div class="dropdown">
+  <span>Gods</span>
+  <div class="dropdown-content">
+    {% for god in site.gods %}
+    <div>
+    <a href="{{ site.baseurl }}{{ god.url }}">
+      {{ god.name }} - {{ god.title }}
+    </a>
+  </div>
+{% endfor %}
+  </div>
+</div>
 </nav>
