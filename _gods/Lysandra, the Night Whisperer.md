@@ -3,6 +3,7 @@ name: Lysandra
 title: the Night Whisperer
 layout: gods
 ---
+# Lysandra, the Night Whisperer
 ![Lysandra, the Night Whisperer](../images/narwhalofwar_Lysandra_the_Night_Whisperer_appears_as_a_serene_f_8b658785-987a-47e1-a539-fa54c3da6071.png)
 ## Domains
 **Moon, Dreams, and Illusion**
