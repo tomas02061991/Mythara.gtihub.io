@@ -1,15 +1,13 @@
 ---
 name: Arboria
 title: the Guardian of Life
-layout: default
+layout: gods
 ---
-
+![Arboria, the Guardian of Life](../images/narwhalofwar_Arboria_the_Guardian_of_Life_is_a_nurturing_presen_7a654224-443f-4d64-b03d-49688cb68095.png)
 ## Domains
 **Earth, Growth, and Protection**
 
 ## Appearance 
-
-![Arboria, the Guardian of Life](../images/narwhalofwar_Arboria_the_Guardian_of_Life_is_a_nurturing_presen_7a654224-443f-4d64-b03d-49688cb68095.png)
 
 Arboria is a nurturing presence, embodying the fertile soil and lush greenery of the land. She appears as a matronly figure with arms outstretched, offering shelter and sustenance to all living creatures. Her touch brings life to barren landscapes and strength to the weak.
 
