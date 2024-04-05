@@ -3,6 +3,7 @@ name: Mordecai
 title: the Shadow Reaper
 layout: gods
 ---
+# Mordecai, the Shadow Reaper
 ![Mordecai, the Shadow Reaper](../images/narwhalofwar_Mordecai_the_Shadow_Reaper_appears_as_a_cloaked_fi_3239dc8e-e8af-441f-8acd-16a2ecf8d005.png)
 ## Domains
 **Death, Darkness, and Secrets**
