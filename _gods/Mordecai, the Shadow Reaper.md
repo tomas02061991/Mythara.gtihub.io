@@ -1,6 +1,7 @@
 ---
 name: Mordecai
 title: the Shadow Reaper
+layout: default
 ---
 
 ## Domains
