@@ -1,6 +1,7 @@
 ---
 name: Aeolus
-title: 
+title: the Tempest Warden
+layout: default
 ---
 
 ## Domain
