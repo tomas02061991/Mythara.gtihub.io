@@ -8,7 +8,7 @@ title: the Sun Sovereign
 
 ## Appearance
 
-![[../images/narwhalofwar_Aurelia_the_Sun_Sovereign_appears_as_a_radiant_fig_79d8d5c5-0d89-4804-b4e7-0f60e33775bc.png|inlL|400x400]]
+![Aurelia, the Sun Sovereign](../images/narwhalofwar_Aurelia_the_Sun_Sovereign_appears_as_a_radiant_fig_79d8d5c5-0d89-4804-b4e7-0f60e33775bc.png)
 
 Aurelia appears as a radiant figure with golden hair and eyes that shimmer like the sun. She wears flowing robes of pure light and carries a gleaming staff that emits a warm, comforting glow.
 
