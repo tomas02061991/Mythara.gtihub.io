@@ -1,15 +1,13 @@
 ---
 name: Aeolus
 title: the Tempest Warden
-layout: default
+layout: gods
 ---
-
+![Aeolus, the Tempest Warden](../images/narwhalofwar_Aeolus_the_Tempest_Warden_is_a_towering_figure_wit_d695235e-9f60-468b-ace0-e627369b87c3.png)
 ## Domain
 **Tempest, War, and Strength**
 
 ## Appearance
-
-![Aeolus, the Tempest Warden](../images/narwhalofwar_Aeolus_the_Tempest_Warden_is_a_towering_figure_wit_d695235e-9f60-468b-ace0-e627369b87c3.png)
 
 Aeolus is a towering figure with rippling muscles, clad in storm clouds and wielding a crackling lightning bolt as a weapon. His eyes flash with the fury of a tempest, and his voice booms like thunder.
 
