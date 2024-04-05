@@ -8,7 +8,7 @@ title: the Verdant Guardian
 
 ## Appearance 
 
-![[../images/narwhalofwar_Sylvana_the_Verdant_Guardian_takes_the_form_of_an__081eff2c-2821-4b48-b3b5-4e24132b1e42.png|400]]
+![Sylvana, the Verdant Guardian](../images/narwhalofwar_Sylvana_the_Verdant_Guardian_takes_the_form_of_an__081eff2c-2821-4b48-b3b5-4e24132b1e42.png)
 
 Sylvana takes the form of an ethereal forest nymph, adorned with leaves and flowers that seem to bloom wherever she walks. She emanates an aura of tranquility and is often accompanied by woodland creatures.
 
