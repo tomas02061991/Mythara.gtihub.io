@@ -3,6 +3,8 @@ name: Sylvana
 title: the Verdant Guardian
 layout: gods
 ---
+# Sylvana, the Verdant Guardian
+
 ![Sylvana, the Verdant Guardian](../images/narwhalofwar_Sylvana_the_Verdant_Guardian_takes_the_form_of_an__081eff2c-2821-4b48-b3b5-4e24132b1e42.png)
 ## Domains
 **Nature, Wilderness, and Harmony**
