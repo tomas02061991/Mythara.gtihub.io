@@ -3,6 +3,8 @@ name: Arboria
 title: the Guardian of Life
 layout: gods
 ---
+# Arboria, the Guardian of Life
+
 ![Arboria, the Guardian of Life](../images/narwhalofwar_Arboria_the_Guardian_of_Life_is_a_nurturing_presen_7a654224-443f-4d64-b03d-49688cb68095.png)
 ## Domains
 **Earth, Growth, and Protection**
