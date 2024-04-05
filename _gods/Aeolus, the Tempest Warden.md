@@ -3,6 +3,8 @@ name: Aeolus
 title: the Tempest Warden
 layout: gods
 ---
+# Aeolus, the Tempest Warden
+
 ![Aeolus, the Tempest Warden](../images/narwhalofwar_Aeolus_the_Tempest_Warden_is_a_towering_figure_wit_d695235e-9f60-468b-ace0-e627369b87c3.png)
 ## Domain
 **Tempest, War, and Strength**
