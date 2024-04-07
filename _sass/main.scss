@@ -1,0 +1,40 @@
+$bg-color: #1a1e24;
+$text-color: #bccad8;
+$h1-color: #c53b3b;
+$h2-color: #e89e5d;
+
+body {
+	background-color: $bg-color
+}
+
+header{
+	color: $text-color;
+	h1 {
+		font-family: the_bold_font;
+		font-size: 60px;
+	}
+}
+
+main {
+	color: $text-color;
+	font-family: soft_elegance;
+	max-width: 1500px;
+	h1 {
+		color: $h1-color;
+		border-bottom: 5px solid $h1-color;
+		border-image: linear-gradient(0.25turn, $h1-color, transparent);
+    	border-image-slice: 1;
+    	padding-bottom: 5px;
+    	font-size: 45px;
+    	width: 60%;
+	}
+	h2 {
+		color: $h2-color;
+		border-bottom: 5px solid $h2-color;
+		border-image: linear-gradient(0.25turn, $h2-color, transparent);
+    	border-image-slice: 1;
+    	padding-bottom: 5px;
+    	font-size: 30px;
+    	width: 50%;
+	}
+}
