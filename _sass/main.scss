@@ -2,6 +2,8 @@ $bg-color: #1a1e24;
 $text-color: #bccad8;
 $h1-color: #c53b3b;
 $h2-color: #e89e5d;
+$secondary-color: #0b0f13;
+$hightlight: #652121;
 
 body {
 	background-color: $bg-color
@@ -12,6 +14,23 @@ header{
 	h1 {
 		font-family: the_bold_font;
 		font-size: 60px;
+		margin-left: 6px;
+	}
+	nav {
+	& a {
+		color: $text-color;
+		text-decoration: none;
+	}
+	& > a, & > a:active, & > a:visited, & > a:focus, & > a:link, & > div{
+		display: inline-block;
+		padding: 12px;
+		background-color: $secondary-color;
+		margin: 0 6px;
+
+		&:hover {
+			background-color: $hightlight;
+		}
+	}
 	}
 }
 
