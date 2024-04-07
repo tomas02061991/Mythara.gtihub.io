@@ -16,21 +16,24 @@ header{
 		font-size: 60px;
 		margin-left: 6px;
 	}
-	nav {
-	& a {
-		color: $text-color;
-		text-decoration: none;
-	}
-	& > a, & > a:active, & > a:visited, & > a:focus, & > a:link, & > div{
-		display: inline-block;
-		padding: 12px;
-		background-color: $secondary-color;
-		margin: 0 6px;
 
-		&:hover {
-			background-color: $hightlight;
+	nav {
+
+		& a {
+			color: $text-color;
+			text-decoration: none;
 		}
-	}
+		
+		& > a, & > a:active, & > a:visited, & > a:focus, & > a:link, & > div{
+			display: inline-block;
+			padding: 12px;
+			background-color: $secondary-color;
+			margin: 0 6px;
+
+			&:hover {
+				background-color: $hightlight;
+			}
+		}
 	}
 }
 
