@@ -15,4 +15,12 @@
 
 .dropdown:hover .dropdown-content, .dropdown:focus .dropdown-content {
   display: block;
+  a {
+    display: block;
+    padding: 6px;
+
+    &:hover {
+      background-color: $hightlight;
+    }
+  }
 }
