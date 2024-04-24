@@ -10,7 +10,20 @@
       {{ god.name }} - {{ god.title }}
     </a>
   </div>
-{% endfor %}
+  {% endfor %}
+  </div>
+</div>
+<a href="{{ site.baseurl }}/world">World</a>
+<div class="dropdown">
+<span>Countries</span>
+  <div class="dropdown-content">
+    {% for country in site.countries %}
+    <div>
+    <a href="{{ site.baseurl }}{{ country.url }}">
+      {{ country.title }}
+    </a>
+  </div>
+  {% endfor %}
   </div>
 </div>
 </nav>

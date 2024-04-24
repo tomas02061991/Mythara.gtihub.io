@@ -29,6 +29,8 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+gems:
+  - jekyll-relative-links  
 sass:
   sass_dir: _sass
   style: compressed
@@ -36,6 +38,9 @@ collections:
   gods:
     output: true
     sort_by: name
+  countries:
+    output: true
+    sort_by: title  
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
