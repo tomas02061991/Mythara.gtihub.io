@@ -1,5 +1,6 @@
 ---
 layout: location
+title: Aridoria
 ---
 # Aridoria
 
