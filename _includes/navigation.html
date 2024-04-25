@@ -26,4 +26,16 @@
   {% endfor %}
   </div>
 </div>
+<div class="dropdown">
+<span>Cities</span>
+  <div class="dropdown-content">
+    {% for city in site.cities %}
+    <div>
+    <a href="{{ site.baseurl }}{{ city.url }}">
+      {{ city.name }}
+    </a>
+  </div>
+  {% endfor %}
+  </div>
+</div>
 </nav>

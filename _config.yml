@@ -29,7 +29,6 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-gems:
   - jekyll-relative-links  
 sass:
   sass_dir: _sass
@@ -40,7 +39,10 @@ collections:
     sort_by: name
   countries:
     output: true
-    sort_by: title  
+    sort_by: title
+  cities:
+    output: true
+    sort_by: country    
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
