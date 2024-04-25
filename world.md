@@ -15,3 +15,8 @@ Yet, for all its wonders and marvels, much of Mythara remains veiled in the cloa
 
 It is a realm ripe with possibility, where adventurers brave the unknown in search of glory and treasure, where scholars pore over ancient tomes in pursuit of knowledge and enlightenment. For in the world of Mythara, the journey is as important as the destination, and every step taken brings one closer to unlocking the mysteries that lie at the heart of this young and vibrant realm.
 
+## Countries
+
+[Aridoria](./_countries/Aridoria.md)
+[Verdantia](./_countries/Verdantia.md)
+

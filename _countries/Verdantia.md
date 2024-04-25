@@ -17,3 +17,7 @@ Yet, despite the challenges that lie ahead, the people of Verdantia are a resili
 In Verdantia, the spirits of the earth and sky are honored with offerings of song and sacrifice, and the gods themselves are said to walk among mortals, their presence felt in every rustle of the leaves and every whisper of the wind. It is a realm where magic flows like water and the lines between the mundane and the mystical are blurred, creating a sense of wonder and awe that permeates every aspect of life.
 
 For those who call Verdantia home, it is a place of endless beauty and boundless potential, where the mysteries of the natural world are waiting to be unlocked and the wonders of the divine are waiting to be discovered. And as long as the sun continues to rise and the forests continue to flourish, the spirit of Verdantia will endure, a testament to the enduring power of nature and the resilience of the human spirit.
+
+## Cities and Points of Interest
+
+[Keirthal](../_cities/Keirthal.md)
