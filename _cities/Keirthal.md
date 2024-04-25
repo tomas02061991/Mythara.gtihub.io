@@ -1,5 +1,6 @@
 ---
 layout: location
+country: Verdantia
 ---
 # Keirthal
   
