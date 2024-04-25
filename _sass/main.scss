@@ -28,6 +28,10 @@ header{
 			&:hover {
 				background-color: $hightlight;
 			}
+
+			@media (max-width: 768px) {
+  				font-size: 35px;
+			}
 		}
 	}
 }
