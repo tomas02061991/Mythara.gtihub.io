@@ -29,6 +29,8 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-relative-links
+      enabled:     true
+      collections: true
 sass:
   sass_dir: _sass
   style: compressed
