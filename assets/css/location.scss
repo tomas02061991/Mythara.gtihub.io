@@ -1,0 +1,26 @@
+---
+---
+$bg-color: #1a1e24;
+$text-color: #bccad8;
+$h1-color: #c53b3b;
+$h2-color: #e89e5d;
+$secondary-color: #0b0f13;
+$hightlight: #652121;
+a, a:active, a:visited {
+	display: block;
+	text-decoration: none;
+	padding:  6px 12px;
+	background-color: $secondary-color;
+	color: $text-color;
+	margin: 12px 0;
+
+	&:hover {
+		background-color: $hightlight;
+	}
+
+
+}
+
+img {
+	width: 850px;
+}

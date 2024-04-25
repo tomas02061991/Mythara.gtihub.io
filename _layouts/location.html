@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="chrome=1">
+        <title>{{ site.title }}</title>
+        <link rel="stylesheet" href="/assets/css/styles.css">
+        <link rel="stylesheet" href="/assets/css/location.css">
+    </head>
+    <body class="phb">
+        <header role="banner" id="banner">
+            <h1> {{ site.title }}</h1>
+            {% include navigation.html %}
+        </header>
+        <main role="main" id="main">
+        {{ content }}
+        </main>
+        <footer role="contentinfo" id="contentinfo">
+        </footer>
+    </body>
+</html>
