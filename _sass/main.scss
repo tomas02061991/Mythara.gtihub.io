@@ -29,7 +29,7 @@ header{
 				background-color: $hightlight;
 			}
 
-			@include moble(){
+			@include mobile(){
 				font-size: 35px;
 			}
 		}
