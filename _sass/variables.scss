@@ -4,3 +4,9 @@ $h1-color: #c53b3b;
 $h2-color: #e89e5d;
 $secondary-color: #0b0f13;
 $hightlight: #652121;
+
+@mixin mobile {
+	@media screen and (max-width: 768px) {
+  		@content
+	}
+}

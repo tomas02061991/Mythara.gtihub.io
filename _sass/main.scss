@@ -29,8 +29,8 @@ header{
 				background-color: $hightlight;
 			}
 
-			@media (max-width: 950px) {
-  				font-size: 35px;
+			@include moble(){
+				font-size: 35px;
 			}
 		}
 	}
