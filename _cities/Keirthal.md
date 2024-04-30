@@ -17,3 +17,14 @@ Surrounding the castle are the eight districts of Keirthal, each with its own un
 But amidst the hustle and bustle of city life, the natural beauty of Verdantia is never far away. Parks and gardens dot the landscape, their verdant greenery providing a welcome respite from the hustle and bustle of urban living. And beyond the city walls, the lush forests and rolling hills of the countryside beckon, offering endless opportunities for exploration and adventure.
 
 In Keirthal, the spirit of Verdantia thrives, its essence woven into the very fabric of the city itself. It is a place of beauty and wonder, where the wonders of nature and the achievements of civilization come together in perfect harmony. And for those who call it home, Keirthal is more than just a city – it is a living testament to the enduring spirit of Verdantia and the boundless potential of the human spirit.
+
+## Districts
+
+[Arlondor](../_districts/Arlondor.md)
+[Aurorium](../_districts/Aurorium.md)
+[Marendir](../_districts/Marendir.md)
+[Regalia](../_districts/Regalia.md)
+[Sylvarin](../_districts/Sylvarin.md)
+[Thalendil](../_districts/Thalendil.md)
+[Verdigrad](../_districts/Verdigrad.md)
+[Veylindor](../_districts/Veylindor.md)
