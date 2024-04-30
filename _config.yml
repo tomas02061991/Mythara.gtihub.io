@@ -44,7 +44,10 @@ collections:
     sort_by: title
   cities:
     output: true
-    sort_by: country    
+    sort_by: country
+  districts:
+    output: true
+    sort_by: title      
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
