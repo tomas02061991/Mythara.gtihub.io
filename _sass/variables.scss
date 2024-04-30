@@ -6,7 +6,7 @@ $secondary-color: #0b0f13;
 $hightlight: #652121;
 
 @mixin mobile {
-	@media screen and (max-width: 768px) {
+	@media screen and (max-device-width: 768px) {
   		@content
 	}
 }

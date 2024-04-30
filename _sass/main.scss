@@ -1,7 +1,7 @@
 @import 'variables.scss';
 
 body {
-	background-color: $bg-color
+	background-color: $bg-color;
 }
 
 header{
@@ -29,8 +29,8 @@ header{
 				background-color: $hightlight;
 			}
 
-			@include mobile(){
-				font-size: 35px;
+			@media screen and (max-device-width: 768px) {
+  				font-size: 36px;
 			}
 		}
 	}
