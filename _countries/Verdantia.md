@@ -21,4 +21,4 @@ For those who call Verdantia home, it is a place of endless beauty and boundless
 ## Cities and Points of Interest
 
 [Keirthal](../_cities/Keirthal.md)
-[VeylSylvari](../_cities/VeylSylvari.md) 
+[Veyl Sylvari](../_cities/Veyl%20Sylvari.md) 
